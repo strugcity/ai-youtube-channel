@@ -98,6 +98,7 @@ make-logs/
 # Airtable specific
 airtable-backups/
 airtable-exports/
+airtable.txt
 
 # YouTube specific
 youtube-credentials/
